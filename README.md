@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,50:FF5F9E,100:FF8C42&height=220&section=header&text=Trang%20Tuan%20Anh&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Cybersecurity%20%7C%20Data%20%26%20AI&descSize=20&descAlignY=58" width="100%" alt="header"/>
+<img src="./assets/header.svg" width="100%" alt="header"/>
 
 <a href="https://github.com/TrangTuanAnh">
   <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=600&size=24&duration=3000&pause=800&color=FF5F9E&center=true&vCenter=true&width=650&height=55&lines=Xin%20ch%C3%A0o%2C%20m%C3%ACnh%20l%C3%A0%20Trang%20Tu%E1%BA%A5n%20Anh;Sinh%20vi%C3%AAn%20UIT%20-%20%C4%91am%20m%C3%AA%20c%C3%B4ng%20ngh%E1%BB%87;Cybersecurity%20%26%20Data%20%2F%20AI;Lu%C3%B4n%20s%E1%BA%B5n%20s%C3%A0ng%20h%E1%BB%8Dc%20h%E1%BB%8Fi%20%C4%91i%E1%BB%81u%20m%E1%BB%9Bi" alt="typing"/>
@@ -98,6 +98,6 @@
 
 <i>Nếu thấy thú vị, đừng ngại nhấn <b>Follow</b> để chúng ta cùng kết nối nhé!</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,50:FF5F9E,100:9D50BB&height=120&section=footer" width="100%" alt="footer"/>
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
 
 </div>

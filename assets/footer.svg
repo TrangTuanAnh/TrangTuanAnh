@@ -1,0 +1,11 @@
+<svg viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <linearGradient id="g" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%"   stop-color="#9D50BB"/>
+      <stop offset="50%"  stop-color="#FF5F9E"/>
+      <stop offset="100%" stop-color="#FF8C42"/>
+    </linearGradient>
+  </defs>
+  <!-- Reverse wave -->
+  <path fill="url(#g)" d="M0,50 C180,5 360,90 540,38 C720,0 810,55 900,38 L900,120 L0,120 Z"/>
+</svg>
