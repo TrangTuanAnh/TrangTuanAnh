@@ -19,9 +19,9 @@
 - 🔐 Định hướng theo **An toàn Thông tin (Cybersecurity)** và đam mê **Data / AI**.
 - 🌱 Đang trau dồi: kiến thức nền tảng về **mạng máy tính, Linux, lập trình Python** và **phân tích dữ liệu**.
 - 🧩 Mình thích tìm hiểu *cách mọi thứ hoạt động* — và *cách để bảo vệ chúng*.
+- 🏅 Đang theo học **Chương trình Tài năng (Honor Program)** tại UIT.
 - 💬 Hãy hỏi mình về: **Cybersecurity, CTF, Python, Data/AI**.
 - 📫 Liên hệ mình qua email: **24520131@gm.uit.edu.vn**
-- ⚡ Fun fact: mình tin rằng *"học đi đôi với hành"* — cứ làm dự án là khắc giỏi! <!-- 👉 Đổi fun fact của riêng bạn ở đây -->
 
 ---
 
