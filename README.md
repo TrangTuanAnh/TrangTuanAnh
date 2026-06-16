@@ -80,21 +80,6 @@
 
 ---
 
-## 📊 Thống kê GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TrangTuanAnh&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF5F9E&icon_color=FF8C42&text_color=C9D1D9" height="170" alt="github stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TrangTuanAnh&hide_border=true&background=0D1117&stroke=FF8C42&ring=FF5F9E&fire=FF5F9E&currStreakLabel=FF8C42&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="170" alt="streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrangTuanAnh&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF5F9E&text_color=C9D1D9" height="170" alt="top languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TrangTuanAnh&bg_color=0D1117&color=FF5F9E&line=FF8C42&point=FFFFFF&area=true&hide_border=true" width="95%" alt="activity graph"/>
-
-</div>
-
----
-
 ## 🤝 Kết nối với mình
 
 <div align="center">
