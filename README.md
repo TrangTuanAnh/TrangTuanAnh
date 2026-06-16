@@ -49,6 +49,37 @@
 
 ---
 
+## 🏴 CTF Writeups & Security Projects
+
+> Mình ghi lại quá trình giải challenge — vừa để ôn lại, vừa chia sẻ cách tư duy với mọi người.
+
+<div align="center">
+
+<a href="https://github.com/TrangTuanAnh/Write-up-PicoCTF">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrangTuanAnh&repo=Write-up-PicoCTF&hide_border=true&bg_color=0D1117&title_color=FF5F9E&icon_color=FF8C42&text_color=C9D1D9&description_lines_count=2" alt="Write-up-PicoCTF"/>
+</a>
+<a href="https://github.com/TrangTuanAnh/Writeup_tier2_hackthebox">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrangTuanAnh&repo=Writeup_tier2_hackthebox&hide_border=true&bg_color=0D1117&title_color=9FEF00&icon_color=FF8C42&text_color=C9D1D9&description_lines_count=2" alt="Writeup_tier2_hackthebox"/>
+</a>
+
+<a href="https://github.com/TrangTuanAnh/Tryhackme_ctf">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrangTuanAnh&repo=Tryhackme_ctf&hide_border=true&bg_color=0D1117&title_color=FF5F9E&icon_color=FF8C42&text_color=C9D1D9&description_lines_count=2" alt="Tryhackme_ctf"/>
+</a>
+<a href="https://github.com/TrangTuanAnh/B01lers-CTF-2026">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrangTuanAnh&repo=B01lers-CTF-2026&hide_border=true&bg_color=0D1117&title_color=FF5F9E&icon_color=FF8C42&text_color=C9D1D9&description_lines_count=2" alt="B01lers-CTF-2026"/>
+</a>
+
+<a href="https://github.com/TrangTuanAnh/pops-dns-cache-poisoning-ctf">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrangTuanAnh&repo=pops-dns-cache-poisoning-ctf&hide_border=true&bg_color=0D1117&title_color=FF5F9E&icon_color=FF8C42&text_color=C9D1D9&description_lines_count=2" alt="pops-dns-cache-poisoning-ctf"/>
+</a>
+<a href="https://github.com/TrangTuanAnh/lan-secure-file-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrangTuanAnh&repo=lan-secure-file-system&hide_border=true&bg_color=0D1117&title_color=FF5F9E&icon_color=FF8C42&text_color=C9D1D9&description_lines_count=2" alt="lan-secure-file-system"/>
+</a>
+
+</div>
+
+---
+
 ## 📊 Thống kê GitHub
 
 <div align="center">
@@ -68,9 +99,8 @@
 
 <div align="center">
 
-<!-- 👉 Thay LINK_LINKEDIN_CUA_BAN bằng đường dẫn LinkedIn thật của bạn -->
 <a href="mailto:24520131@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34"/></a>
-<a href="https://www.linkedin.com/in/LINK_LINKEDIN_CUA_BAN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/></a>
+<a href="https://www.linkedin.com/in/anh-trang-tu%E1%BA%A5n-40260a394/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/></a>
 <a href="https://github.com/TrangTuanAnh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="34"/></a>
 
 </div>
